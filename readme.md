@@ -1,3 +1,23 @@
+My (baurst) modified Idobao ID80 Keymap.
+Note: This is just for future reference for myself.
+
+Changes from default ANSI: 
+* END key in top left corner
+* VOLUME UP & VOLUME DOWN shortcuts on HOME & DEL key
+
+
+Location: `keyboards/id80/ansi/keymaps/baurst/keymap.c`: [Link](keyboards/id80/ansi/keymaps/baurst/keymap.c)
+
+Build:
+```bash
+util/docker_build.sh id80/ansi:baurst
+```
+
+Flash: Press ESC while inserting USB cable and run:
+```bash
+sudo -E util/docker_build.sh id80/ansi:baurst:flash
+```
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
