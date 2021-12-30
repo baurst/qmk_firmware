@@ -2,7 +2,7 @@ My (baurst) modified Idobao ID80 Keymap.
 Note: This is just for future reference for myself.
 
 Changes from default ANSI: 
-* END key in top left corner
+* END key in top right corner
 * VOLUME UP & VOLUME DOWN shortcuts on HOME & DEL key
 
 
