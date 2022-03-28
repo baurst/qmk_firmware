@@ -5,6 +5,9 @@ Changes from default ANSI:
 * END key in top right corner
 * VOLUME UP & VOLUME DOWN shortcuts on HOME & DEL key
 
+Other changes:
+* turn off RGB backlight in rules.mk
+* turn off all background illumination led lights
 
 Location: `keyboards/id80/ansi/keymaps/baurst/keymap.c`: [Link](keyboards/id80/ansi/keymaps/baurst/keymap.c)
 
